@@ -1,7 +1,3 @@
-
-### 📌 **README para o Front-end (Angular)**  
-```md
-```
 # 🎨 CRUD Frontend com Angular
 
 Este repositório contém a interface do usuário do projeto CRUD desenvolvido com **Angular**.
@@ -9,8 +5,7 @@ Este repositório contém a interface do usuário do projeto CRUD desenvolvido c
 ## 🛠️ Tecnologias Utilizadas
 - **Angular 19**
 - **TypeScript**
-- **Bootstrap/Tailwind** (se aplicável)
-- **Axios ou HttpClient** para requisições HTTP
+- **HttpClient** para requisições HTTP
 
 ## 🚀 Como Rodar o Projeto
 ### 🔧 Pré-requisitos:
